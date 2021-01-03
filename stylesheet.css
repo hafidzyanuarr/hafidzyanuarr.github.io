@@ -284,4 +284,9 @@ th {
     .kolomKanan img {
         display: none;
     }
+    
+    .kolomKiriContent>img {
+        float: none;
+        
+    }
 }
